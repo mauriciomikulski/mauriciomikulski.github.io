@@ -6,7 +6,11 @@ body {
   }
   .text-muted {
 	color: #777777;
-  }
+	}
+	
+	.text-muted2 {
+		color: #FFF;
+		}
   .text-primary {
 	color: #43b1ff;
   }
